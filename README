@@ -1,41 +1,41 @@
-# 📊 Self-Service Analytics Dashboard (Streamlit)
+📊 Self-Service Analytics Dashboard (Streamlit)
 
 A self-service analytics web application that allows users to upload data, clean it, build interactive dashboards, analyze insights, save dashboard versions, and export reports — similar to enterprise BI tools like Power BI or Tableau.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-### 📤 Data Upload
+📤 Data Upload
 - Upload CSV or Excel files
 - Preview dataset instantly
 
-### 🧹 Data Cleaning
+🧹 Data Cleaning
 - Remove duplicate records
 - Handle missing values
 - Preview cleaned data
 - Download cleaned dataset as CSV
 
-### 📈 Dashboard Builder
+📈 Dashboard Builder
 - Build custom charts (Bar, Line, Scatter, Histogram, Box)
 - Apply global filters
 - KPI metrics (row count, averages, max values)
 - Edit or delete charts
 - Drill-down: view underlying data for each chart
 
-### 📚 Dashboard Versions (Enterprise Feature)
+📚 Dashboard Versions (Enterprise Feature)
 - Save multiple dashboard versions
 - Load previously saved versions instantly
 - Switch between different analytical views
 
-### 🧠 Statistical Insights
+🧠 Statistical Insights
 - Dataset overview
 - Data quality checks
 - Statistical variability detection
 - Correlation analysis with heatmap
 - Actionable insights & recommendations
 
-### 💾 Export
+💾 Export
 - Export full dashboard as PDF
 - Includes:
   - Dataset summary
@@ -45,7 +45,7 @@ A self-service analytics web application that allows users to upload data, clean
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 - **Python**
 - **Streamlit**
@@ -57,6 +57,6 @@ A self-service analytics web application that allows users to upload data, clean
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 
